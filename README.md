@@ -1,7 +1,7 @@
 <img width="1572" height="358" alt="Bhargavi" src="https://github.com/user-attachments/assets/eb910918-bd15-4ab0-8c22-ee60c64d404f" />
 
 <h1 align="center">Hi 👋, I'm Bhargavi Pappuri</h1>
-<h3 align="center">A passionate fI am a passionate Business Intelligence Developer/Data Analyst with over 5.7 years of experience turning raw data into meaningful insights in security and supply chain domains. I work with modern tools like Power BI, Azure Data Factory,AWS,Microsoft Fabric. Am a Microsoft certified in microsoft power platform fundamentals. I love learning and continuously improving my skills to stay up-to-date with the latest technologies
+<h3 align="center">A passionate BI am a passionate Business Intelligence Developer/Data Analyst with over 5.7 years of experience turning raw data into meaningful insights in security and supply chain domains. I work with modern tools like Power BI, Azure Data Factory,AWS,Microsoft Fabric. Am a Microsoft certified in microsoft power platform fundamentals. I love learning and continuously improving my skills to stay up-to-date with the latest technologies
 
 - 👨‍💻 All of my projects are available at [https://github.com/BIDBhargavipappuri?tab=repositories](https://github.com/BIDBhargavipappuri?tab=repositories)
 
