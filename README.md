@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width="1572" height="358" alt="Bhargavi" src="https://github.com/user-attachments/assets/eb910918-bd15-4ab0-8c22-ee60c64d404f" />
 
-<!--
-**BIDBhargavipappuri/BIDBhargavipappuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Bhargavi Pappuri</h1>
+<h3 align="center">A passionate fI am a passionate Business Intelligence Developer/Data Analyst with over 5.7 years of experience turning raw data into meaningful insights in security and supply chain domains. I work with modern tools like Power BI, Azure Data Factory,AWS,Microsoft Fabric. Am a Microsoft certified in microsoft power platform fundamentals. I love learning and continuously improving my skills to stay up-to-date with the latest technologies
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/BIDBhargavipappuri?tab=repositories](https://github.com/BIDBhargavipappuri?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **ETL in Databases and Cloud Data,Data Visualization, Data Analyzing**
+
+- 📫 How to reach me **bhargavibopa@gmail.com**
+
+- 📄 Know about my experiences [linkedin.com/in/bhargavi-pappuri-59a6a3270](linkedin.com/in/bhargavi-pappuri-59a6a3270)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <!-- Microsoft Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
+  </a> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bidbhargavipappuri&show_icons=true&locale=en&layout=compact" 
