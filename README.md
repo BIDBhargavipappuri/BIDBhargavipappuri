@@ -61,3 +61,8 @@ I am passionate and love learning  continuously improving my skills to stay up-t
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" 
        alt="Apache Spark" width="40" height="40"/>
 </a>
+<!-- Microsoft Fabric -->
+<a href="https://www.microsoft.com/fabric" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Microsoft_Fabric_Logo.svg" 
+       alt="Microsoft Fabric" width="40" height="40"/>
+</a>>
