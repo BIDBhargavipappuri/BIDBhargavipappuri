@@ -56,8 +56,8 @@ I am passionate and love learning  continuously improving my skills to stay up-t
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bidbhargavipappuri&show_icons=true&locale=en&layout=compact" />
-</p>
+<!-- Apache Spark -->
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" 
+       alt="Apache Spark" width="40" height="40"/>
+</a>
