@@ -6,7 +6,7 @@
 <h3 align="center">
  
 A passionate Business Intelligence Developer/Data Analyst with over 5.7 years of experience turning raw data into meaningful insights in security and supply chain domains.  
-I work with tools like Power BI, SQL, ETL, SSIS, Azure Data Factory, AWS, Microsoft Fabric. I have earned the Microsoft Certificate in - Fabric Data Engineer Associate(DP-700),Power Platform Fundamentals(PL-900) . 
+I work with tools like Power BI, SQL, ETL, SSIS, Azure Data Factory, AWS, Microsoft Fabric. I have earned the Microsoft Certificates in - Fabric Data Engineer Associate(DP-700) and Power Platform Fundamentals(PL-900) . 
 I am passionate and love learning  continuously improving my skills to stay up-to-date with the latest technologies in this AI era...
 
 </h3>
