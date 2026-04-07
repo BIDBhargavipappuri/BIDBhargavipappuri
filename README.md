@@ -1,4 +1,4 @@
-<img width="1656" height="271" alt="Screenshot 2026-03-11 201910" src="https://github.com/user-attachments/assets/3aac9e28-df4f-403d-bb2a-4bf069afbf66" />
+
 
 <h1 align="center">Hi 👋, I'm Bhargavi Pappuri</h1>
 
