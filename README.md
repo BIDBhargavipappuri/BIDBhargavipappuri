@@ -1,4 +1,6 @@
+<img width="1142" height="230" alt="image" src="https://github.com/user-attachments/assets/64e2ea55-227c-4a9e-9fb3-df87e942d6e9" />
 
+<img width="497" height="202" alt="image" src="https://github.com/user-attachments/assets/8be041f4-298d-4dc7-9971-ddcd320ea76c" />
 
 <h1 align="center">Hi 👋, I'm Bhargavi Pappuri</h1>
 
