@@ -36,24 +36,44 @@ I am passionate and love learning  continuously improving my skills to stay up-t
 
 
 <p align="left"> 
-
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40"/></a>
-
-  <a href="#"><img src="https://github.com/user-attachments/assets/c480d3db-329c-4271-9c52-2a94036377f5" width="56" height="56"/></a>
-  <a href="#"><img src="https://github.com/user-attachments/assets/c4434498-87df-43db-b102-d327c3ce17a0" width="56" height="56"/></a>
-  <a href="#"><img src="https://github.com/user-attachments/assets/5da424d2-4ac7-416b-8365-8a1121b5c111" width="56" height="56"/></a>
-
+  <!-- Microsoft Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/c480d3db-329c-4271-9c52-2a94036377f5" alt="FabricImage" width="56" height="56" style="display:inline-block; vertical-align:middle;" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/c4434498-87df-43db-b102-d327c3ce17a0" alt="SSIS" width="56" height="56" style="display:inline-block; vertical-align:middle;" />
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/5da424d2-4ac7-416b-8365-8a1121b5c111" alt="SSRS" width="56" height="56" style="display:inline-block; vertical-align:middle;" />
+  </a>
 </p>
-
-
 
 
 
