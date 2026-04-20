@@ -67,6 +67,14 @@ I am passionate and love learning  continuously improving my skills to stay up-t
        alt="Apache Spark" width="40" height="40"/>
 </a>
 
+<img width="67" height="56" alt="FabricImage" src="https://github.com/user-attachments/assets/c480d3db-329c-4271-9c52-2a94036377f5" />
+ 
+<img width="61" height="56" alt="SSIS" src="https://github.com/user-attachments/assets/c4434498-87df-43db-b102-d327c3ce17a0" />
+
+<img width="48" height="56" alt="SSRS" src="https://github.com/user-attachments/assets/5da424d2-4ac7-416b-8365-8a1121b5c111" />
+
+
+
 
 
 
